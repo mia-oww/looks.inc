@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sync": "node scripts/sync-linkinbio.mjs && node scripts/sync-site.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",

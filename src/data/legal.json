@@ -1,0 +1,372 @@
+{
+  "disclaimer": {
+    "title": "Disclaimer",
+    "url": "https://looksteal.com/disclaimer/",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Effective from November 19, 2023"
+      },
+      {
+        "type": "paragraph",
+        "text": "The information provided on the looksteal.com website (referred to as the “Service”) is intended for general informational purposes only. Look Steal Inc assumes no responsibility for any errors or omissions in the content available on the Service."
+      },
+      {
+        "type": "paragraph",
+        "text": "Under no circumstances shall Look Steal Inc be held liable for any special, direct, indirect, consequential, or incidental damages arising out of or related to the use of the Service or its contents, whether through contractual obligation, negligence, or any other tort."
+      },
+      {
+        "type": "paragraph",
+        "text": "Look Steal Inc reserves the right to modify, remove, or add content on the Service without prior notice."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Service provided by Look Steal Inc does not guarantee the absence of viruses or other harmful components on the website."
+      },
+      {
+        "type": "heading",
+        "text": "External Links Disclaimer:"
+      },
+      {
+        "type": "paragraph",
+        "text": "The looksteal.com website may contain links to external websites that are not provided or maintained by Look Steal Inc in any manner. Please note that Look Steal Inc does not assure the accuracy, relevance, timeliness, or completeness of any information on these external websites."
+      },
+      {
+        "type": "heading",
+        "text": "Affiliate Disclaimer:"
+      },
+      {
+        "type": "paragraph",
+        "text": "This disclosure outlines Look Steal Inc’s affiliate relationships with other companies and products. Certain links on www.looksteal.com are designated as “affiliate links,” which include a unique tracking code."
+      },
+      {
+        "type": "paragraph",
+        "text": "Clicking on an affiliate link and subsequently purchasing the item may result in Look Steal Inc receiving an affiliate commission. However, the price of the item remains the same regardless of whether it is an affiliate link or not. We only recommend products or services we believe will benefit our audience."
+      },
+      {
+        "type": "paragraph",
+        "text": "By utilizing the affiliate links, you are assisting in supporting the Service provided by Look Steal Inc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Contact Us:"
+      },
+      {
+        "type": "paragraph",
+        "text": "For any inquiries about this Disclaimer, please reach out to us via email at legal@looksteal.com."
+      }
+    ]
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "url": "https://looksteal.com/privacy-policy/",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Effective date: November 19, 2023"
+      },
+      {
+        "type": "paragraph",
+        "text": "Look Steal Inc (“us”, “we”, or “our”) operates the looksteal.com website (referred to as the “Service”)."
+      },
+      {
+        "type": "paragraph",
+        "text": "This Privacy Policy outlines how Look Steal Inc collects, uses, and safeguards your personal information when you access and utilize our Service, and the options you have concerning that data."
+      },
+      {
+        "type": "paragraph",
+        "text": "By using our Service, you consent to the collection and utilization of information as described in this policy."
+      },
+      {
+        "type": "heading",
+        "text": "Definitions"
+      },
+      {
+        "type": "heading",
+        "text": "Service"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Service refers to the looksteal.com website operated by Look Steal Inc."
+      },
+      {
+        "type": "heading",
+        "text": "Personal Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "Personal Data pertains to information that can identify a living individual, whether directly or combined with other data we hold or are likely to possess."
+      },
+      {
+        "type": "heading",
+        "text": "Usage Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "Usage Data comprises information automatically collected, generated through your use of the Service, or originating from the Service infrastructure (e.g., page visit duration)."
+      },
+      {
+        "type": "heading",
+        "text": "Cookies"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cookies are small data files stored on your device (such as a computer or mobile device)."
+      },
+      {
+        "type": "heading",
+        "text": "Data Controller"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Data Controller is the natural or legal entity responsible, alone or in conjunction with others, for determining the purposes and methods of personal information processing. For this Privacy Policy, Look Steal Inc is the Data Controller for your Personal Data."
+      },
+      {
+        "type": "heading",
+        "text": "Data Processors (or Service Providers)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Data Processor (or Service Provider) refers to any natural or legal entity that processes data on behalf of the Data Controller. We may engage various Service Providers to enhance data processing efficiency."
+      },
+      {
+        "type": "heading",
+        "text": "Data Subject (or User)"
+      },
+      {
+        "type": "paragraph",
+        "text": "A Data Subject denotes any living individual utilizing our Service and is the subject of Personal Data."
+      },
+      {
+        "type": "heading",
+        "text": "Information Collection and Usage"
+      },
+      {
+        "type": "paragraph",
+        "text": "We collect diverse information types to serve various purposes and enhance our Service to you."
+      },
+      {
+        "type": "heading",
+        "text": "Types of Collected Data"
+      },
+      {
+        "type": "heading",
+        "text": "Personal Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "When using our Service, we may request certain personally identifiable information to contact or identify you (“Personal Data”). This includes, but is not limited to, Cookies and Usage Data."
+      },
+      {
+        "type": "heading",
+        "text": "Usage Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "We may also gather details regarding how the Service is accessed and used, such as your IP address, browser type, visited pages, date and time of visits, time spent on pages, unique device identifiers, and other diagnostic data."
+      },
+      {
+        "type": "heading",
+        "text": "Tracking & Cookies Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "We use Cookies and similar technologies to track Service activity and store certain information. These technologies encompass beacons, tags, and scripts to collect and analyze information for Service enhancement."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cookies contain minimal data, including an anonymous unique identifier. They are sent to your browser from websites and stored on your device. Additionally, we utilize tracking technologies for improved Service analysis."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can manage your browser settings to decline all cookies or receive notifications when a cookie is sent. However, note that certain Service portions may become inaccessible if you opt not to accept cookies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here are examples of Cookies we use:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Session Cookies: These enable Service operation. Preference Cookies: Used to recall your preferences and settings. Security Cookies: Employed for security purposes. Advertising Cookies: Serve relevant advertisements matching your interests. Utilization of Data"
+      },
+      {
+        "type": "paragraph",
+        "text": "Look Steal Inc uses collected data for various purposes, including:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Maintaining and enhancing our Service. Notifying you about Service changes. Enabling participation in interactive Service features. Providing customer support. Gathering analytics or valuable insights to improve our Service. Monitoring Service usage. Detecting, preventing, and addressing technical issues. Legal Basis for Processing Personal Data under GDPR"
+      },
+      {
+        "type": "paragraph",
+        "text": "For individuals from the European Economic Area (EEA), Look Steal Inc processes personal information according to the following legal bases:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Necessity to fulfill a contract with you. Consent granted by you. Legitimate interests pursued by us, not overriding your rights. Compliance with legal obligations. Data Retention"
+      },
+      {
+        "type": "paragraph",
+        "text": "We retain your Personal Data only for the period required to fulfill the purposes outlined in this Privacy Policy. We uphold the use of your Personal Data to meet legal obligations, resolve disputes, and enforce our agreements and policies."
+      },
+      {
+        "type": "paragraph",
+        "text": "We also retain Usage Data for internal analysis purposes, typically for shorter periods. However, extended retention may occur for data enhancing Service security or functionality or when legally mandated."
+      },
+      {
+        "type": "heading",
+        "text": "Data Transfer"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your information, including Personal Data, may be transferred to and stored on computers located outside your country, province, state, or other governmental jurisdiction. The data protection laws of these locations may differ from your jurisdiction’s laws."
+      },
+      {
+        "type": "paragraph",
+        "text": "By consenting to this Privacy Policy and providing us with your information, you agree to such transfers. Look Steal Inc will take reasonable steps to ensure your data is handled securely and in line with this Privacy Policy. We won’t transfer your Personal Data to an organization or country unless adequate controls, including data and personal information security, are in place."
+      },
+      {
+        "type": "heading",
+        "text": "Data Disclosure"
+      },
+      {
+        "type": "paragraph",
+        "text": "In certain situations, Look Steal Inc may need to disclose your Personal Data if required by law or in response to valid requests by public authorities (e.g., court or government agencies)."
+      },
+      {
+        "type": "paragraph",
+        "text": "We may disclose your Personal Data in good faith to:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Comply with a legal obligation. Protect and defend the rights or property of Look Steal Inc. Prevent or investigate possible wrongdoing in connection with the Service. Safeguard the personal safety of Service users or the public. Protect against legal liability. Data Security"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your data security is crucial to us. Although we strive to use commercially acceptable means to safeguard your Personal Data, no transmission method over the internet or electronic storage guarantees absolute security."
+      },
+      {
+        "type": "heading",
+        "text": "“Do Not Track” Signals under CalOPPA"
+      },
+      {
+        "type": "paragraph",
+        "text": "The Service does not support “Do Not Track” (DNT) signals. DNT is a browser preference signaling websites not to track individual browsing activities."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can enable or disable DNT in your browser’s Preferences or Settings page."
+      },
+      {
+        "type": "heading",
+        "text": "Your Data Protection Rights under GDPR"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you are an EEA resident, you possess certain data protection rights. Look Steal Inc aims to facilitate reasonable steps for you to correct, amend, delete, or limit Personal Data usage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Under specific circumstances, you have the following data protection rights:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Access, update, or deletion of Personal Data within your account settings section (where applicable). If you’re unable to perform these actions, contact us for assistance. Rectification of inaccurate or incomplete information. Objection to our Personal Data processing. Restriction requests regarding your personal information processing. Data portability requests to receive your information in a structured, machine-readable format. Withdrawal of consent granted to Look Steal Inc for processing your personal information. We may ask you to verify your identity before addressing such requests."
+      },
+      {
+        "type": "paragraph",
+        "text": "You also have the right to lodge a complaint with a Data Protection Authority about our collection and use of your Personal Data. For more information, contact your local EEA data protection authority."
+      },
+      {
+        "type": "heading",
+        "text": "Service Providers"
+      },
+      {
+        "type": "paragraph",
+        "text": "We may engage third-party entities or individuals (“Service Providers”) to assist in Service provision, perform Service-related activities, or aid in Service analysis."
+      },
+      {
+        "type": "paragraph",
+        "text": "These third parties have limited access to your Personal Data for specific tasks only and are bound by confidentiality not to disclose or use it for other purposes."
+      },
+      {
+        "type": "heading",
+        "text": "Analytics"
+      },
+      {
+        "type": "paragraph",
+        "text": "We may utilize third-party Service Providers to monitor and analyze Service usage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Google Analytics Google Analytics, a web analytics service by Google, tracks and reports website traffic. It collects data used for Service monitoring and is shared with other Google services. Google may customize ads through the data collected. You can opt-out of this tracking activity by installing the Google Analytics opt-out browser add-on, preventing sharing of your visit activity."
+      },
+      {
+        "type": "paragraph",
+        "text": "For further details on Google’s privacy practices, visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en"
+      },
+      {
+        "type": "heading",
+        "text": "Advertising"
+      },
+      {
+        "type": "paragraph",
+        "text": "We may enlist third-party Service Providers to display advertisements supporting and maintaining our Service."
+      },
+      {
+        "type": "paragraph",
+        "text": "Google AdSense & DoubleClick Cookie"
+      },
+      {
+        "type": "heading",
+        "text": "Links to Other Sites"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit."
+      },
+      {
+        "type": "paragraph",
+        "text": "We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services."
+      },
+      {
+        "type": "heading",
+        "text": "Children’s Privacy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Our Service does not address anyone under the age of 18 (“Children”)."
+      },
+      {
+        "type": "paragraph",
+        "text": "We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers."
+      },
+      {
+        "type": "heading",
+        "text": "Changes to This Privacy Policy"
+      },
+      {
+        "type": "paragraph",
+        "text": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page."
+      },
+      {
+        "type": "paragraph",
+        "text": "You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page."
+      },
+      {
+        "type": "heading",
+        "text": "Contact Us"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have any questions about this Privacy Policy, please contact us:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "By email: legal@looksteal.com"
+        ]
+      }
+    ]
+  }
+}

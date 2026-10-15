@@ -1,0 +1,360 @@
+{
+  "syncedAt": "2026-10-15T13:19:55.170Z",
+  "profile": {
+    "name": "Look Steal Inc",
+    "handle": "look.steal.inc",
+    "title": "Look Steal Inc • K-pop Fashion Source",
+    "bio": "Sources for K-pop fashion are linked below to shop! 👗👇",
+    "avatar": "/media/feed/avatar.jpg",
+    "instagram": "https://www.instagram.com/look.steal.inc/"
+  },
+  "theme": {
+    "background": "#FFFFFF",
+    "text": "#080808",
+    "button": "#080808",
+    "radius": "5px",
+    "font": "Roboto"
+  },
+  "buttons": [
+    {
+      "title": "Customer Reviews",
+      "url": "https://www.trustpilot.com/review/looksteal.com"
+    },
+    {
+      "title": "Affiliate Link(s) Disclaimer",
+      "url": "https://looksteal.com/disclaimer/"
+    }
+  ],
+  "posts": [
+    {
+      "id": 58019383,
+      "caption": "LE SSERAFIM Huh Yunjin's casual outfits in NYC! \n\n#lesserafım #huhyunjin #kpopfashion",
+      "postedAt": "2026-10-14T20:30:47.000Z",
+      "image": "/media/feed/post-58019383.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "jacket",
+          "url": "https://fave.co/4jmZ0Fw",
+          "x": 92.6086956521739,
+          "y": 39.30434782608695
+        },
+        {
+          "title": "skirt",
+          "url": "https://fave.co/4jY6Oh7",
+          "x": 92.17391304347827,
+          "y": 64.8695652173913
+        }
+      ]
+    },
+    {
+      "id": 58004954,
+      "caption": "CLASSy Boeun wearing a striped @to.mireco top with a @limelike_official bag! \n\n#classy #mireco #boeun #kpopfashion",
+      "postedAt": "2026-10-14T04:15:30.000Z",
+      "image": "/media/feed/post-58004954.webp",
+      "link": "https://global.musinsa.com/us/products/7311215?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-ae2jtmueJn9kqUq5vMpbfg",
+      "tags": []
+    },
+    {
+      "id": 58004949,
+      "caption": "🖤 aespa Ningning wearing Gucci for her photoshoot with Harper's BAZAAR CHINA!\n\nWhich outfit did Ningning slay best? 🫶 \n\n#aespa #ningning #gucci #kpopfashion",
+      "postedAt": "2026-10-12T21:49:58.000Z",
+      "image": "/media/feed/post-58004949.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "top",
+          "url": "https://fave.co/4yJzMGd",
+          "x": 37.391304347826086,
+          "y": 20.17391304347826
+        },
+        {
+          "title": "tights",
+          "url": "https://fave.co/4eu8WJW",
+          "x": 34.34782608695652,
+          "y": 67.47826086956522
+        }
+      ]
+    },
+    {
+      "id": 58004947,
+      "caption": "aespa Karina wearing a Prada swimsuit for her surf session! 🏄\n\n#aespa #karina #kpopfashion",
+      "postedAt": "2026-10-11T16:50:44.000Z",
+      "image": "/media/feed/post-58004947.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "hat",
+          "url": "https://deuskorea.com/product/shook-ones-truckermechanic-blue/2612/category/24/display/1/",
+          "x": 40.43478260869565,
+          "y": 24.347826086956523
+        },
+        {
+          "title": "swimsuit",
+          "url": "https://www.prada.com/us/en/p/jersey-one-piece-swimsuit/70267_16UL_F0OBD_S_OOO",
+          "x": 40,
+          "y": 64.69565217391305
+        }
+      ]
+    },
+    {
+      "id": 57963004,
+      "caption": "ILLIT outfits for their 'BREAK EVEN' mini album!\n\n#illit #kpopfashion",
+      "postedAt": "2026-10-10T14:31:53.000Z",
+      "image": "/media/feed/post-57963004.webp",
+      "link": "https://www.maxfieldla.com/products/enfants-riches-deprimes-down-syndrome-aleph-raglan-t-shirt",
+      "tags": []
+    },
+    {
+      "id": 57956757,
+      "caption": "LE SSERAFIM Chaewon's recent autumn outfits! \n\nWhich look is ur fav? 🫶\n\n#lesserafım #chaewon #kpopfashion",
+      "postedAt": "2026-10-09T23:29:03.000Z",
+      "image": "/media/feed/post-57956757.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "hat",
+          "url": "https://global.musinsa.com/us/products/6236316?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-RVJK1ERAuov70iv6nKlFcQ",
+          "x": 94.34782608695652,
+          "y": 14.08695652173913
+        },
+        {
+          "title": "jacket",
+          "url": "https://fave.co/3W0Lr4S",
+          "x": 91.52173913043478,
+          "y": 48.17391304347826
+        },
+        {
+          "title": "skirt",
+          "url": "https://danielleguiziony.com/products/fleece-skort-camo",
+          "x": 93.91304347826087,
+          "y": 78.26086956521739
+        }
+      ]
+    },
+    {
+      "id": 57934898,
+      "caption": "🖤 BABYMONSTER Asa wearing a @sculptor_kr marine draped romper outfit! \n\nFor the other peices, it's just generic mass-produced. \n\n#babymonster #asa #sculptor #kpopfashion",
+      "postedAt": "2026-10-08T17:50:28.000Z",
+      "image": "/media/feed/post-57934898.webp",
+      "link": "https://sculptor-worldwide.com/products/marine-draped-romper-black?_pos=3&_psq=marine+romper&_psid=d42aab94e&_ss=e",
+      "tags": []
+    },
+    {
+      "id": 57921085,
+      "caption": "NMIXX casual outfits for their 2026 Chuseok greeting message! \n\n#nmixx #kpopfashion",
+      "postedAt": "2026-10-07T23:19:54.000Z",
+      "image": "/media/feed/post-57921085.webp",
+      "link": "https://global.musinsa.com/us/products/7056848?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-bptkSHhDuTkGW1ak.CUHiw",
+      "tags": []
+    },
+    {
+      "id": 57917391,
+      "caption": "NMIXX casual outfits for their PICK NMIXX \"A showdown for the ticket to head home, Grand Plan to Leave Work for Chuseok\" episode on YouTube! \n\n#nmixx #kpopfashion",
+      "postedAt": "2026-10-07T18:50:33.000Z",
+      "image": "/media/feed/post-57917391.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "top",
+          "url": "https://global.musinsa.com/us/products/7012071?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-IbGJa2pW5gWFQMT_zyFuRQ",
+          "x": 89.13043478260869,
+          "y": 23.82608695652174
+        },
+        {
+          "title": "pants",
+          "url": "https://global.musinsa.com/us/products/6221737?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-c8Oi4tC1Svmt_oXuhZPexw",
+          "x": 94.1304347826087,
+          "y": 68.52173913043478
+        }
+      ]
+    },
+    {
+      "id": 57899082,
+      "caption": "IVE Yujin's recent fall outfits! \n\nWhich look is ur fav? \n\n#ive #yujin #kpopfashion",
+      "postedAt": "2026-10-06T17:40:23.000Z",
+      "image": "/media/feed/post-57899082.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "cardigan",
+          "url": "https://theporta.kr/product/detail.html?product_no=1879&cate_no=206&display_group=1",
+          "x": 88.26086956521739,
+          "y": 34.26086956521739
+        },
+        {
+          "title": "shorts",
+          "url": "https://www.zara.com/us/en/trf-low-rise-denim-mini-shorts-p04060004.html",
+          "x": 92.17391304347827,
+          "y": 74.78260869565217
+        }
+      ]
+    },
+    {
+      "id": 57880496,
+      "caption": "🖤 LE SSERAFIM Huh Yunjin wearing a Rick Owens and @gila.archive shorts outfit! \n\n#lesserafım #huhyunjin #허윤진 #rickowens #kpopfashion",
+      "postedAt": "2026-10-05T06:42:58.000Z",
+      "image": "/media/feed/post-57880496.webp",
+      "link": "https://fave.co/4APV0Uc",
+      "tags": []
+    },
+    {
+      "id": 57868888,
+      "caption": "izna Bang Jeemin wearing a @gila.archive and @2000.archives outfit! \n\n#izna #bangjeemin #gilaarchive #2000archives #kpopfashion",
+      "postedAt": "2026-10-05T05:31:54.000Z",
+      "image": "/media/feed/post-57868888.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "top",
+          "url": "https://global.musinsa.com/us/products/4762783?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-WlZNcne8gmeheDmKlpwZ4g",
+          "x": 44.565217391304344,
+          "y": 32.869565217391305
+        },
+        {
+          "title": "top",
+          "url": "https://global.musinsa.com/us/products/6591392?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-GOeRs9rsOuaPwpG4d9RZRw",
+          "x": 36.52173913043478,
+          "y": 70.95652173913042
+        }
+      ]
+    },
+    {
+      "id": 57861583,
+      "caption": "🖤 KiiiKiii Leesol wearing a @pasion.haus hoodie and pants outfit! \n\n#kiiikiii #leesol #pasion #kpopfashion",
+      "postedAt": "2026-10-04T02:32:57.000Z",
+      "image": "/media/feed/post-57861583.webp",
+      "link": "https://global.musinsa.com/us/products/6799712?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-3_AxmUIPC9iljyX5a6jY7g",
+      "tags": []
+    },
+    {
+      "id": 57861479,
+      "caption": "IVE Rei's recent casual outfits. Which look is ur fav? 🫶\n\n#ive #rei #kpopfashion",
+      "postedAt": "2026-10-03T17:41:49.000Z",
+      "image": "/media/feed/post-57861479.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "hat",
+          "url": "https://www.musinsa.com/products/5651089",
+          "x": 91.73913043478261,
+          "y": 22.086956521739133
+        },
+        {
+          "title": "top",
+          "url": "https://fave.co/4dlb7z5",
+          "x": 90.65217391304347,
+          "y": 62.60869565217392
+        }
+      ]
+    },
+    {
+      "id": 57841293,
+      "caption": "Introducing Lilniina (@lilzzz27), a kawaii yet swagged out Japanese artist who first made waves with her song 'cigirl'. \n\nWith a musical career spanning over half a decade, Lilniina is back with a new single produced by Kivoo (@wakeupkivoo) called 'tokidoki', which translates to \"sometimes\". \n\nBlending vintage, designer, and mainly Japanese brands, Lilniina's style is definitely a steal! Which outfit is ur fav? 🫶\n\n#lilniina #jpopfashion #jpop",
+      "postedAt": "2026-10-02T07:31:12.000Z",
+      "image": "/media/feed/post-57841293.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "top",
+          "url": "https://jp.mercari.com/item/m96629260046",
+          "x": 48.69565217391305,
+          "y": 25.73913043478261
+        },
+        {
+          "title": "skort",
+          "url": "https://jp.mercari.com/item/m64264366977",
+          "x": 41.08695652173913,
+          "y": 52.347826086956516
+        },
+        {
+          "title": "shoes",
+          "url": "https://fruitsfamily.com/product/457b7/adidas-originals-%EB%AF%B8%EC%8B%9C-%EC%97%98%EB%A6%AC%EC%97%87-%EC%BD%9C%EB%9D%BC%EB%B3%B4-%ED%95%9C%EC%A0%95%ED%8C%90-y2k",
+          "x": 41.30434782608695,
+          "y": 80.34782608695652
+        }
+      ]
+    },
+    {
+      "id": 57821286,
+      "caption": "CLASSy Riwon's closet dump edit! \n\nWhich outfit is ur fav? 🫶 You can DM and I'll send you links to make shopping easier. 💌\n\n#classy #riwon #리원 #클라씨 #kpopfashion",
+      "postedAt": "2026-10-01T04:25:02.000Z",
+      "image": "/media/feed/post-57821286.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "hat",
+          "url": "https://intl.heights-store.com/product/wheres-rudolph-6panel-cap-navy/106129/?cate_no=5408&display_group=1",
+          "x": 91.52173913043478,
+          "y": 24
+        },
+        {
+          "title": "top",
+          "url": "https://global.musinsa.com/us/products/5979998?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-2_0nrfBsF6A2BjwNKSb1Nw",
+          "x": 97.82608695652173,
+          "y": 55.130434782608695
+        }
+      ]
+    },
+    {
+      "id": 57799370,
+      "caption": "aespa Karina's vacation outfits in the Bahamas! \n\n#aespa #karina #kpopfashion",
+      "postedAt": "2026-09-29T20:58:26.000Z",
+      "image": "/media/feed/post-57799370.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "top",
+          "url": "http://urbanoutfitters.com/shop/bdg-lila-lace-trim-cami?color=011&type=REGULAR&quantity=1&currency=EUR&cm_mmc=rakuten-_-affiliates-_-Skimlinks.com-_-1&utm_medium=affiliates&utm_source=LS&utm_campaign=Skimlinks.com&utm_term=1780210&utm_content=1&utm_kxconfid=v3sc298q1&ranMID=43616&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-BEqwRWiO7p3QtVgjOOjV0w",
+          "x": 39.34782608695652,
+          "y": 31.82608695652174
+        },
+        {
+          "title": "shorts",
+          "url": "https://www.nike.com/t/standard-issue-mens-dri-fit-6-basketball-shorts-tXmTluuM/IF1589-010?cp=76060516106_aff_TnL5HPStwNw&ranMID=41134&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-P_WcWiD6NhIoA7KmqHOUdw",
+          "x": 42.82608695652174,
+          "y": 71.82608695652173
+        }
+      ]
+    },
+    {
+      "id": 57778538,
+      "caption": "LE SSERAFIM Yunjin's most stylish casual outfits that she recently wore! \n\n#lesserafım #yunjin #kpopfashion",
+      "postedAt": "2026-09-28T18:21:09.000Z",
+      "image": "/media/feed/post-57778538.webp",
+      "link": null,
+      "tags": [
+        {
+          "title": "hair band",
+          "url": "https://fave.co/4rDeibd",
+          "x": 90.21739130434783,
+          "y": 15.130434782608695
+        },
+        {
+          "title": "top",
+          "url": "https://global.musinsa.com/us/products/6677469?utm_campaign=conversion_cpa_us_all&utm_content=always-on__231201__2116208______&utm_medium=affiliate&utm_source=rakuten_int&ranMID=50810&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-PvfikyeA0geZHIk7p8igMA",
+          "x": 32.608695652173914,
+          "y": 33.21739130434783
+        },
+        {
+          "title": "pants",
+          "url": "https://fave.co/3V6losR",
+          "x": 30.869565217391305,
+          "y": 71.82608695652173
+        },
+        {
+          "title": "bag",
+          "url": "https://fave.co/46QqPyB",
+          "x": 94.78260869565217,
+          "y": 44.34782608695652
+        },
+        {
+          "title": "shoes",
+          "url": "https://naot.shop-pro.jp/?pid=59297352",
+          "x": 96.08695652173913,
+          "y": 78.08695652173913
+        }
+      ]
+    }
+  ]
+}

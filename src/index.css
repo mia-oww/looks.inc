@@ -1,111 +1,140 @@
 :root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
-  --border: #e5e4e7;
-  --code-bg: #f4f3ec;
-  --accent: #aa3bff;
-  --accent-bg: rgba(170, 59, 255, 0.1);
-  --accent-border: rgba(170, 59, 255, 0.5);
-  --social-bg: rgba(244, 243, 236, 0.5);
-  --shadow:
-    rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
+  /* Brand palette from looksteal.com */
+  --bg: #faf7f2;
+  --surface: #f2ebe2;
+  --card: #fffdf9;
+  --brand: #492c23;
+  --text: #2a1d18;
+  --muted: #7a675e;
+  --line: #e5dcd1;
+  --on-brand: #faf7f2;
+  --overlay: rgba(42, 29, 24, 0.7);
+  --radius: 4px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --mono: ui-monospace, Consolas, monospace;
+  --serif-display: 'Marcellus', 'Times New Roman', serif;
+  --serif: 'Lora', Georgia, serif;
+  --sans: 'Overpass', system-ui, -apple-system, 'Segoe UI', sans-serif;
 
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
+  --gutter: clamp(16px, 4vw, 48px);
+  --max: 1240px;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+
+  font: 17px/1.65 var(--serif);
   color: var(--text);
   background: var(--bg);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  @media (max-width: 1024px) {
-    font-size: 16px;
-  }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #9ca3af;
-    --text-h: #f3f4f6;
-    --bg: #16171d;
-    --border: #2e303a;
-    --code-bg: #1f2028;
-    --accent: #c084fc;
-    --accent-bg: rgba(192, 132, 252, 0.15);
-    --accent-border: rgba(192, 132, 252, 0.5);
-    --social-bg: rgba(47, 48, 58, 0.5);
-    --shadow:
-      rgba(0, 0, 0, 0.4) 0 10px 15px -3px, rgba(0, 0, 0, 0.25) 0 4px 6px -2px;
-  }
-
-  #social .button-icon {
-    filter: invert(1) brightness(2);
-  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
+  background: var(--bg);
 }
 
-#root {
-  width: 1126px;
+/* Intro: on page load the header drops in (`intro` on <html>, set in
+   index.html), and the first time each tab is opened its content rises into
+   place in sequence (`intro` on <main>, managed by useRouteIntro in App.jsx).
+   Tabs already seen since the page loaded don't replay it. */
+@keyframes drop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-16px);
+  }
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html.intro .announce,
+  html.intro .site-header {
+    animation: drop-in 0.7s var(--ease-out) backwards;
+  }
+
+  html.intro .site-header {
+    animation-delay: 80ms;
+  }
+
+  .site-main.intro .hero__copy > *,
+  .site-main.intro .hero__collage img,
+  .site-main.intro .offer,
+  .site-main.intro .page-header > *,
+  .site-main.intro .container > :not(.page-header, .grid, .articles) {
+    animation: rise-in 0.9s var(--ease-out) backwards;
+    animation-delay: calc(200ms + var(--i, 0) * 110ms);
+  }
+
+  .site-main.intro :is(.hero__copy, .page-header) > :nth-child(2) { --i: 1; }
+  .site-main.intro :is(.hero__copy, .page-header) > :nth-child(3) { --i: 2; }
+  .site-main.intro .hero__copy > :nth-child(4) { --i: 3; }
+  .site-main.intro .hero__copy > :nth-child(5) { --i: 4; }
+
+  .site-main.intro .hero__collage img:nth-child(1) { --i: 2; }
+  .site-main.intro .hero__collage img:nth-child(2) { --i: 3; }
+  .site-main.intro .hero__collage img:nth-child(3) { --i: 4; }
+
+  .site-main.intro .offer:nth-child(1) { --i: 5; }
+  .site-main.intro .offer:nth-child(2) { --i: 6; }
+  .site-main.intro .offer:nth-child(3) { --i: 7; }
+
+  .site-main.intro .container > :nth-child(2) { --i: 3; }
+  .site-main.intro .container > :nth-child(n + 3) { --i: 4; }
+
+  /* Feed tiles and article cards rise one by one (--n is set per item). */
+  .site-main.intro .container :is(.grid, .articles) > li {
+    animation: rise-in 0.9s var(--ease-out) backwards;
+    animation-delay: calc(500ms + min(var(--n, 0), 11) * 70ms);
+  }
+}
+
+/* Images fade in as they finish loading (see FadeImage.jsx). */
+.fade-img.is-loading {
+  opacity: 0;
+}
+
+.fade-img.is-loaded {
+  transition: opacity 0.6s ease;
+}
+
+img {
+  display: block;
   max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
-  min-height: 100svh;
-  display: flex;
-  flex-direction: column;
-  box-sizing: border-box;
+  height: auto;
 }
 
-h1,
-h2 {
-  font-family: var(--heading);
-  font-weight: 500;
-  color: var(--text-h);
+a {
+  color: var(--brand);
+  text-underline-offset: 3px;
 }
 
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
-  }
-}
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
-}
-p {
-  margin: 0;
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
 }
 
-code,
-.counter {
-  font-family: var(--mono);
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
 }
 
-code {
-  font-size: 15px;
-  line-height: 135%;
-  padding: 4px 8px;
-  background: var(--code-bg);
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
